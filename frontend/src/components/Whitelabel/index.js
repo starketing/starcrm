@@ -93,11 +93,11 @@ const useStyles = makeStyles((theme) => ({
     padding: "10px",
     borderStyle: "solid",
     borderWidth: "1px",
-    borderColor: "#424242",
+    borderColor: "#0f1447",
   },
 
   appLogoDarkPreviewDiv: {
-    backgroundColor: "#424242",
+    backgroundColor: "#0f1447",
     padding: "10px",
     borderStyle: "solid",
     borderWidth: "1px",
